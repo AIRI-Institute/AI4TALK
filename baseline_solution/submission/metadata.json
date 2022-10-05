@@ -1,0 +1,4 @@
+{
+    "image": "cr.msk.sbercloud.ru/aijcontest2022/ai4talk:fourth",
+    "entrypoint": "python3 solution.py solve_tasks ../input/asr.csv ../input/translation.csv"
+}
