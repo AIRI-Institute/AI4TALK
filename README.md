@@ -1,6 +1,6 @@
 # AI4TALK
 
-This is the repo for the AI4Talk track of the AI Journey contest ([competition page](https://dsworks.ru/)). 
+This is the repo for the AI4Talk track of the AI Journey contest ([competition page](https://dsworks.ru/champ/745de8cb-e023-4b64-9be4-b95b9519f8d3#overview)). 
 
 It contains training data, sample testing data, and the baseline solution.
 
